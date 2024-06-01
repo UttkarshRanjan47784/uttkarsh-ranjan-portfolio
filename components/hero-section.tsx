@@ -8,8 +8,8 @@ export default function HeroSection() {
         Uttkarsh Ranjan
       </h1>
       <h3 className="mt-3 w-5/6 text-sm md:text-base md:w-4/5 md:text-red-400 lg:text-yellow-400 lg:w-3/5 ml-1">
-        I'm a passionate Full Stack Web Developer with a knack for creating
-        dynamic and responsive web applications.{" "}
+        I am a passionate Full Stack Web Developer with a knack for creating web
+        apps with a clean UI and a robust backend.{" "}
         <span className="hidden sm:inline">
           With a strong foundation in both front-end and back-end technologies,
           I excel at transforming ideas into seamless digital experiences. I
