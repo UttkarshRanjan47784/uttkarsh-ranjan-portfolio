@@ -40,7 +40,7 @@ export const ParticleHeroBG = () => {
         quantity={200}
         ease={80}
         color={color}
-        refresh
+        refresh={false}
       />
     </div>
   );
